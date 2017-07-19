@@ -1,0 +1,19 @@
+{
+  "name": "rrt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchen8888/rrt.git"
+  },
+  "author": "Justin Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchen8888/rrt/issues"
+  },
+  "homepage": "https://github.com/jchen8888/rrt#readme"
+}
