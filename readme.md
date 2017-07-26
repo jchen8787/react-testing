@@ -1,1 +1,1 @@
-Testing react redux stuff
+Testing react stuff
